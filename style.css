@@ -21,6 +21,7 @@ body {
 .half-width img {
     width: 100%;
     height: 95%;
+
 }
 
 .link-button {
@@ -45,4 +46,36 @@ body {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.full-baby {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5%;
+
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+#developer {
+    border-right: 7px solid rgb(248, 169, 23)
+}
+
+#programmer {
+    border-right: 7px solid rgb(97, 97, 236);
+}
+
+footer p {
+    text-align: center;
 }
